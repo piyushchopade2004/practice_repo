@@ -1,1 +1,1 @@
-print("Hello, World! version 111")
+echo("Hello, World! version 111")
