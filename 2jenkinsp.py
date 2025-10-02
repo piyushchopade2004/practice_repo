@@ -1,1 +1,1 @@
-echo("this is v111")
+print("this is v111")
